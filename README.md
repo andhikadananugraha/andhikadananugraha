@@ -1,6 +1,11 @@
-### Hi there 👋
-andhikadananugraha
+Hi there, I'm Andhika Dana Nugraha
+I am IT enthusiast
+
+@andhikadananugraha
 <!--
+
+
+
 **andhikadananugraha/andhikadananugraha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
